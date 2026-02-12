@@ -1,19 +1,14 @@
----
-layout: default
-title: "Halo, Saya Panji Depari"
----
-
 <h1 align="center">Hi �, I'm Panji Briant Depari</h1>
 <h3 align="center">A passionate Javascript developer from Indonesia 🇮🇩</h3>
 
 <br>
 
 <div align="center">
-<a href="https://github.com/PencariKode"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub:PencariKode" /></a>&nbsp;
+<a href="https://github.com/PencariKode"><img src="https://img.shields.io/badge/PencariKode-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub:PencariKode" /></a>&nbsp;
   <a href="mailto:deparipanji@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
   <a href="https://linkedin.com/in/panjidepari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="https://instagram.com/panjidepari"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-  <a href="https://github.com/BriantPanji"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub:BriantPanji" /></a>
+  <a href="https://github.com/BriantPanji"><img src="https://img.shields.io/badge/BriantPanji-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub:BriantPanji" /></a>
 </div>
 
 <br>
